@@ -5,7 +5,7 @@ inputs:
   iso-profiles-repo:
     description: 'iso profiles to clone'
     required: false
-    default: 'https://github.com/ggYasin/5-iso-profiles'
+    default: 'https://github.com/ggYasin/6-iso-profiles'
   iso-profiles-branch:
     description: 'branch of the iso profiles to check out'
     required: false
